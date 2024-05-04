@@ -1,0 +1,814 @@
+{
+    "pos1": {
+        "Luna": [
+            48.9,
+            "264"
+        ],
+        "Lifestealer": [
+            60.5,
+            "258"
+        ],
+        "Morphling": [
+            50.4,
+            "244"
+        ],
+        "Anti-Mage": [
+            55.1,
+            "167"
+        ],
+        "Faceless Void": [
+            54.3,
+            "162"
+        ],
+        "Weaver": [
+            58.8,
+            "114"
+        ],
+        "Drow Ranger": [
+            59.5,
+            "104"
+        ],
+        "Slark": [
+            58.8,
+            "102"
+        ],
+        "Gyrocopter": [
+            53.1,
+            "98"
+        ],
+        "Troll Warlord": [
+            62.8,
+            "86"
+        ],
+        "Monkey King": [
+            55.9,
+            "84"
+        ],
+        "Ursa": [
+            50.6,
+            "83"
+        ],
+        "Razor": [
+            54.7,
+            "75"
+        ],
+        "Templar Assassin": [
+            52.5,
+            "61"
+        ],
+        "Juggernaut": [
+            45.8,
+            "48"
+        ],
+        "Windranger": [
+            43.8,
+            "48"
+        ],
+        "Chaos Knight": [
+            46.7,
+            "45"
+        ],
+        "Sven": [
+            47.6,
+            "44"
+        ],
+        "Marci": [
+            60.5,
+            "43"
+        ],
+        "Medusa": [
+            52.4,
+            "42"
+        ],
+        "Clinkz": [
+            60.0,
+            "40"
+        ],
+        "Naga Siren": [
+            41.6,
+            "36"
+        ],
+        "Meepo": [
+            63.9,
+            "36"
+        ],
+        "Bloodseeker": [
+            51.4,
+            "35"
+        ],
+        "Spectre": [
+            74.3,
+            "35"
+        ],
+        "Phantom Lancer": [
+            44.1,
+            "34"
+        ],
+        "Muerta": [
+            30.3,
+            "33"
+        ],
+        "Phantom Assassin": [
+            51.6,
+            "31"
+        ],
+        "Terrorblade": [
+            50.0,
+            "30"
+        ],
+        "Shadow Fiend": [
+            40.0,
+            "30"
+        ],
+        "Alchemist": [
+            60.0,
+            "30"
+        ],
+        "Pudge": [
+            52.9,
+            "17"
+        ],
+        "Riki": [
+            71.3,
+            "14"
+        ],
+        "Bristleback": [
+            50.0,
+            "12"
+        ],
+        "Lina": [
+            63.6,
+            "11"
+        ],
+        "Leshrac": [
+            70.0,
+            "10"
+        ],
+        "Sniper": [
+            42.9,
+            "7"
+        ],
+        "Huskar": [
+            57.0,
+            "7"
+        ],
+        "Arc Warden": [
+            16.7,
+            "6"
+        ],
+        "Lone Druid": [
+            66.7,
+            "6"
+        ]
+    },
+    "pos4": {
+        "Hoodwink": [
+            61.7,
+            "261"
+        ],
+        "Tiny": [
+            54.9,
+            "215"
+        ],
+        "Rubick": [
+            50.0,
+            "206"
+        ],
+        "Nature's Prophet": [
+            54.7,
+            "159"
+        ],
+        "Bounty Hunter": [
+            41.6,
+            "108"
+        ],
+        "Techies": [
+            52.7,
+            "93"
+        ],
+        "Batrider": [
+            54.5,
+            "88"
+        ],
+        "Shadow Demon": [
+            55.7,
+            "79"
+        ],
+        "Nyx Assassin": [
+            60.3,
+            "73"
+        ],
+        "Pudge": [
+            47.0,
+            "70"
+        ],
+        "Grimstroke": [
+            45.7,
+            "70"
+        ],
+        "Bane": [
+            54.4,
+            "68"
+        ],
+        "Lion": [
+            52.2,
+            "67"
+        ],
+        "Dark Willow": [
+            50.8,
+            "63"
+        ],
+        "Earthshaker": [
+            55.2,
+            "58"
+        ],
+        "Disruptor": [
+            57.9,
+            "57"
+        ],
+        "Mirana": [
+            70.3,
+            "54"
+        ],
+        "Tusk": [
+            48.0,
+            "50"
+        ],
+        "Pugna": [
+            64.0,
+            "50"
+        ],
+        "Venomancer": [
+            58.3,
+            "48"
+        ],
+        "Shadow Shaman": [
+            56.4,
+            "46"
+        ],
+        "Skywrath Mage": [
+            53.7,
+            "41"
+        ],
+        "Windranger": [
+            34.2,
+            "38"
+        ],
+        "Clockwerk": [
+            54.3,
+            "35"
+        ],
+        "Spirit Breaker": [
+            48.6,
+            "35"
+        ],
+        "Earth Spirit": [
+            44.1,
+            "34"
+        ],
+        "Zeus": [
+            52.9,
+            "34"
+        ],
+        "Weaver": [
+            45.5,
+            "33"
+        ],
+        "Vengeful Spirit": [
+            51.6,
+            "31"
+        ],
+        "Gyrocopter": [
+            60.0,
+            "30"
+        ],
+        "Phoenix": [
+            46.7,
+            "30"
+        ],
+        "Snapfire": [
+            58.5,
+            "29"
+        ],
+        "Keeper of the Light": [
+            59.3,
+            "27"
+        ],
+        "Winter Wyvern": [
+            57.6,
+            "26"
+        ],
+        "Clinkz": [
+            52.4,
+            "21"
+        ],
+        "Crystal Maiden": [
+            55.6,
+            "18"
+        ],
+        "Invoker": [
+            31.2,
+            "16"
+        ],
+        "Enchantress": [
+            50.0,
+            "16"
+        ],
+        "Marci": [
+            62.5,
+            "16"
+        ],
+        "Leshrac": [
+            37.5,
+            "16"
+        ],
+        "Monkey King": [
+            41.6,
+            "12"
+        ],
+        "Muerta": [
+            63.6,
+            "11"
+        ],
+        "Ancient Apparition": [
+            60.0,
+            "10"
+        ],
+        "Dazzle": [
+            20.0,
+            "10"
+        ],
+        "Magnus": [
+            66.7,
+            "9"
+        ],
+        "Oracle": [
+            66.7,
+            "9"
+        ],
+        "Dawnbreaker": [
+            55.6,
+            "9"
+        ],
+        "Witch Doctor": [
+            12.5,
+            "8"
+        ],
+        "Abaddon": [
+            75.0,
+            "8"
+        ],
+        "Enigma": [
+            37.5,
+            "8"
+        ],
+        "Jakiro": [
+            75.0,
+            "8"
+        ],
+        "Lich": [
+            57.0,
+            "7"
+        ],
+        "Ogre Magi": [
+            50.0,
+            "6"
+        ],
+        "Elder Titan": [
+            16.7,
+            "6"
+        ]
+    },
+    "pos2": {
+        "Pangolier": [
+            58.8,
+            "257"
+        ],
+        "Zeus": [
+            58.5,
+            "227"
+        ],
+        "Leshrac": [
+            53.7,
+            "218"
+        ],
+        "Puck": [
+            55.4,
+            "148"
+        ],
+        "Keeper of the Light": [
+            51.4,
+            "146"
+        ],
+        "Timbersaw": [
+            44.1,
+            "93"
+        ],
+        "Invoker": [
+            40.5,
+            "89"
+        ],
+        "Storm Spirit": [
+            45.5,
+            "88"
+        ],
+        "Sniper": [
+            50.0,
+            "70"
+        ],
+        "Lina": [
+            56.6,
+            "67"
+        ],
+        "Ember Spirit": [
+            55.4,
+            "65"
+        ],
+        "Primal Beast": [
+            58.0,
+            "62"
+        ],
+        "Queen of Pain": [
+            45.9,
+            "61"
+        ],
+        "Razor": [
+            53.3,
+            "60"
+        ],
+        "Tiny": [
+            62.3,
+            "53"
+        ],
+        "Kunkka": [
+            50.9,
+            "53"
+        ],
+        "Outworld Destroyer": [
+            53.8,
+            "52"
+        ],
+        "Templar Assassin": [
+            61.1,
+            "49"
+        ],
+        "Huskar": [
+            46.9,
+            "49"
+        ],
+        "Earth Spirit": [
+            44.7,
+            "47"
+        ],
+        "Windranger": [
+            53.5,
+            "43"
+        ],
+        "Broodmother": [
+            62.8,
+            "43"
+        ],
+        "Dragon Knight": [
+            58.5,
+            "41"
+        ],
+        "Void Spirit": [
+            55.0,
+            "40"
+        ],
+        "Shadow Fiend": [
+            52.6,
+            "38"
+        ],
+        "Tinker": [
+            56.8,
+            "37"
+        ],
+        "Meepo": [
+            58.0,
+            "31"
+        ],
+        "Viper": [
+            51.8,
+            "27"
+        ],
+        "Dazzle": [
+            61.5,
+            "26"
+        ],
+        "Death Prophet": [
+            40.0,
+            "25"
+        ],
+        "Slardar": [
+            63.6,
+            "22"
+        ],
+        "Magnus": [
+            57.0,
+            "21"
+        ],
+        "Earthshaker": [
+            47.5,
+            "21"
+        ],
+        "Necrophos": [
+            57.0,
+            "21"
+        ],
+        "Visage": [
+            60.0,
+            "20"
+        ],
+        "Monkey King": [
+            50.0,
+            "18"
+        ],
+        "Arc Warden": [
+            70.6,
+            "17"
+        ],
+        "Pudge": [
+            52.9,
+            "17"
+        ],
+        "Pugna": [
+            31.2,
+            "16"
+        ],
+        "Bounty Hunter": [
+            62.5,
+            "16"
+        ],
+        "Clinkz": [
+            50.0,
+            "16"
+        ],
+        "Marci": [
+            64.3,
+            "14"
+        ],
+        "Lone Druid": [
+            76.9,
+            "13"
+        ],
+        "Nature's Prophet": [
+            63.6,
+            "11"
+        ],
+        "Omniknight": [
+            50.0,
+            "10"
+        ],
+        "Snapfire": [
+            44.4,
+            "9"
+        ],
+        "Riki": [
+            28.5,
+            "7"
+        ],
+        "Bristleback": [
+            57.0,
+            "7"
+        ],
+        "Bane": [
+            57.0,
+            "7"
+        ],
+        "Nyx Assassin": [
+            85.7,
+            "7"
+        ],
+        "Morphling": [
+            66.7,
+            "6"
+        ],
+        "Hoodwink": [
+            33.3,
+            "6"
+        ],
+        "Winter Wyvern": [
+            16.7,
+            "6"
+        ],
+        "Rubick": [
+            33.3,
+            "6"
+        ]
+    },
+    "pos5": {
+        "Disruptor": [
+            57.4,
+            "216"
+        ],
+        "Bane": [
+            55.3,
+            "150"
+        ],
+        "Crystal Maiden": [
+            63.3,
+            "150"
+        ],
+        "Venomancer": [
+            58.0,
+            "148"
+        ],
+        "Io": [
+            49.2,
+            "128"
+        ],
+        "Nature's Prophet": [
+            61.9,
+            "105"
+        ],
+        "Vengeful Spirit": [
+            58.3,
+            "96"
+        ],
+        "Oracle": [
+            60.1,
+            "83"
+        ],
+        "Techies": [
+            51.2,
+            "80"
+        ],
+        "Lion": [
+            52.0,
+            "73"
+        ],
+        "Enchantress": [
+            43.8,
+            "73"
+        ],
+        "Treant Protector": [
+            67.6,
+            "71"
+        ],
+        "Undying": [
+            46.8,
+            "62"
+        ],
+        "Shadow Demon": [
+            63.9,
+            "61"
+        ],
+        "Pugna": [
+            59.3,
+            "59"
+        ],
+        "Clockwerk": [
+            55.9,
+            "59"
+        ],
+        "Mirana": [
+            43.4,
+            "53"
+        ],
+        "Batrider": [
+            49.0,
+            "49"
+        ],
+        "Grimstroke": [
+            46.9,
+            "49"
+        ],
+        "Pudge": [
+            39.1,
+            "46"
+        ],
+        "Marci": [
+            42.1,
+            "45"
+        ],
+        "Shadow Shaman": [
+            47.6,
+            "44"
+        ],
+        "Gyrocopter": [
+            46.5,
+            "43"
+        ],
+        "Jakiro": [
+            61.0,
+            "41"
+        ],
+        "Abaddon": [
+            50.0,
+            "40"
+        ],
+        "Phoenix": [
+            51.3,
+            "39"
+        ],
+        "Tusk": [
+            51.3,
+            "39"
+        ],
+        "Hoodwink": [
+            63.2,
+            "38"
+        ],
+        "Chen": [
+            61.8,
+            "34"
+        ],
+        "Lich": [
+            47.0,
+            "34"
+        ],
+        "Ogre Magi": [
+            33.3,
+            "33"
+        ],
+        "Rubick": [
+            37.5,
+            "32"
+        ],
+        "Bounty Hunter": [
+            43.3,
+            "30"
+        ],
+        "Winter Wyvern": [
+            53.6,
+            "28"
+        ],
+        "Elder Titan": [
+            50.0,
+            "28"
+        ],
+        "Ancient Apparition": [
+            63.6,
+            "22"
+        ],
+        "Tiny": [
+            45.0,
+            "20"
+        ],
+        "Windranger": [
+            50.0,
+            "20"
+        ],
+        "Silencer": [
+            66.7,
+            "18"
+        ],
+        "Skywrath Mage": [
+            55.6,
+            "18"
+        ],
+        "Dazzle": [
+            50.0,
+            "16"
+        ],
+        "Witch Doctor": [
+            40.0,
+            "15"
+        ],
+        "Warlock": [
+            60.0,
+            "15"
+        ],
+        "Spirit Breaker": [
+            40.0,
+            "15"
+        ],
+        "Snapfire": [
+            53.8,
+            "13"
+        ],
+        "Zeus": [
+            33.3,
+            "12"
+        ],
+        "Magnus": [
+            63.6,
+            "11"
+        ],
+        "Dark Willow": [
+            54.5,
+            "11"
+        ],
+        "Dawnbreaker": [
+            54.5,
+            "11"
+        ],
+        "Enigma": [
+            33.3,
+            "9"
+        ],
+        "Nyx Assassin": [
+            55.6,
+            "9"
+        ],
+        "Leshrac": [
+            50.0,
+            "8"
+        ],
+        "Viper": [
+            33.3,
+            "6"
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "pos5": {
+        "Disruptor": [
+            43.8,
+            "16"
+        ],
+        "Io": [
+            63.6,
+            "11"
+        ],
+        "Treant Protector": [
+            42.9,
+            "7"
+        ],
+        "Vengeful Spirit": [
+            28.5,
+            "7"
+        ],
+        "Venomancer": [
+            83.3,
+            "6"
+        ]
+    },
+    "pos2": {
+        "Invoker": [
+            42.9,
+            "14"
+        ],
+        "Leshrac": [
+            36.4,
+            "11"
+        ],
+        "Pangolier": [
+            50.0,
+            "8"
+        ],
+        "Zeus": [
+            57.0,
+            "7"
+        ],
+        "Ember Spirit": [
+            50.0,
+            "6"
+        ],
+        "Broodmother": [
+            33.3,
+            "6"
+        ],
+        "Shadow Fiend": [
+            50.0,
+            "6"
+        ]
+    },
+    "pos1": {
+        "Luna": [
+            38.5,
+            "13"
+        ],
+        "Morphling": [
+            36.4,
+            "11"
+        ],
+        "Faceless Void": [
+            70.0,
+            "10"
+        ],
+        "Sven": [
+            55.6,
+            "9"
+        ],
+        "Anti-Mage": [
+            44.4,
+            "9"
+        ],
+        "Lifestealer": [
+            75.0,
+            "8"
+        ],
+        "Phantom Assassin": [
+            50.0,
+            "6"
+        ]
+    },
+    "pos3": {
+        "Slardar": [
+            54.5,
+            "11"
+        ],
+        "Mars": [
+            50.0,
+            "8"
+        ],
+        "Doom": [
+            57.0,
+            "7"
+        ],
+        "Centaur Warrunner": [
+            28.5,
+            "7"
+        ],
+        "Kunkka": [
+            57.0,
+            "7"
+        ],
+        "Axe": [
+            28.5,
+            "7"
+        ]
+    }
+}

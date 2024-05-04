@@ -1,0 +1,236 @@
+{
+    "pos1": {
+        "Lifestealer": [
+            50.0,
+            "22"
+        ],
+        "Luna": [
+            53.8,
+            "13"
+        ],
+        "Ursa": [
+            38.5,
+            "13"
+        ],
+        "Morphling": [
+            41.6,
+            "12"
+        ],
+        "Faceless Void": [
+            50.0,
+            "12"
+        ],
+        "Anti-Mage": [
+            22.2,
+            "9"
+        ],
+        "Gyrocopter": [
+            50.0,
+            "8"
+        ],
+        "Slark": [
+            85.7,
+            "7"
+        ],
+        "Sven": [
+            28.5,
+            "7"
+        ],
+        "Troll Warlord": [
+            50.0,
+            "6"
+        ],
+        "Marci": [
+            50.0,
+            "6"
+        ],
+        "Weaver": [
+            50.0,
+            "6"
+        ],
+        "Drow Ranger": [
+            66.7,
+            "6"
+        ],
+        "Monkey King": [
+            50.0,
+            "6"
+        ]
+    },
+    "pos4": {
+        "Tiny": [
+            59.0,
+            "22"
+        ],
+        "Hoodwink": [
+            35.6,
+            "14"
+        ],
+        "Nature's Prophet": [
+            16.7,
+            "12"
+        ],
+        "Rubick": [
+            27.3,
+            "11"
+        ],
+        "Disruptor": [
+            50.0,
+            "10"
+        ],
+        "Tusk": [
+            37.5,
+            "8"
+        ],
+        "Bounty Hunter": [
+            25.0,
+            "8"
+        ],
+        "Pudge": [
+            57.0,
+            "7"
+        ],
+        "Nyx Assassin": [
+            57.0,
+            "7"
+        ],
+        "Dark Willow": [
+            71.3,
+            "7"
+        ]
+    },
+    "pos2": {
+        "Zeus": [
+            47.4,
+            "19"
+        ],
+        "Leshrac": [
+            42.9,
+            "14"
+        ],
+        "Sniper": [
+            41.6,
+            "12"
+        ],
+        "Puck": [
+            58.3,
+            "12"
+        ],
+        "Keeper of the Light": [
+            36.4,
+            "11"
+        ],
+        "Pangolier": [
+            50.0,
+            "10"
+        ],
+        "Storm Spirit": [
+            57.0,
+            "7"
+        ],
+        "Huskar": [
+            14.2,
+            "7"
+        ],
+        "Invoker": [
+            42.9,
+            "7"
+        ],
+        "Dragon Knight": [
+            33.3,
+            "6"
+        ],
+        "Queen of Pain": [
+            33.3,
+            "6"
+        ]
+    },
+    "pos3": {
+        "Slardar": [
+            25.0,
+            "16"
+        ],
+        "Axe": [
+            41.6,
+            "12"
+        ],
+        "Doom": [
+            45.5,
+            "11"
+        ],
+        "Night Stalker": [
+            40.0,
+            "10"
+        ],
+        "Windranger": [
+            50.0,
+            "10"
+        ],
+        "Mars": [
+            30.0,
+            "10"
+        ],
+        "Brewmaster": [
+            37.5,
+            "8"
+        ],
+        "Centaur Warrunner": [
+            37.5,
+            "8"
+        ],
+        "Legion Commander": [
+            57.0,
+            "7"
+        ],
+        "Magnus": [
+            83.3,
+            "6"
+        ],
+        "Timbersaw": [
+            50.0,
+            "6"
+        ],
+        "Dragon Knight": [
+            83.3,
+            "6"
+        ]
+    },
+    "pos5": {
+        "Disruptor": [
+            54.5,
+            "11"
+        ],
+        "Crystal Maiden": [
+            45.5,
+            "11"
+        ],
+        "Vengeful Spirit": [
+            45.5,
+            "11"
+        ],
+        "Io": [
+            30.0,
+            "10"
+        ],
+        "Venomancer": [
+            44.4,
+            "9"
+        ],
+        "Enchantress": [
+            44.4,
+            "9"
+        ],
+        "Bane": [
+            75.0,
+            "8"
+        ],
+        "Shadow Shaman": [
+            37.5,
+            "8"
+        ],
+        "Pugna": [
+            83.3,
+            "6"
+        ]
+    }
+}

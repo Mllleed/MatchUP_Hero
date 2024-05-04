@@ -1,0 +1,246 @@
+{
+    "pos1": {
+        "Luna": [
+            45.0,
+            "20"
+        ],
+        "Lifestealer": [
+            44.4,
+            "18"
+        ],
+        "Morphling": [
+            50.0,
+            "12"
+        ],
+        "Faceless Void": [
+            30.0,
+            "10"
+        ],
+        "Troll Warlord": [
+            40.0,
+            "10"
+        ],
+        "Ursa": [
+            70.0,
+            "10"
+        ],
+        "Anti-Mage": [
+            44.4,
+            "9"
+        ],
+        "Gyrocopter": [
+            25.0,
+            "8"
+        ],
+        "Razor": [
+            50.0,
+            "8"
+        ],
+        "Weaver": [
+            50.0,
+            "8"
+        ],
+        "Drow Ranger": [
+            50.0,
+            "8"
+        ],
+        "Slark": [
+            42.9,
+            "7"
+        ],
+        "Phantom Lancer": [
+            28.5,
+            "7"
+        ],
+        "Marci": [
+            50.0,
+            "6"
+        ],
+        "Chaos Knight": [
+            66.7,
+            "6"
+        ],
+        "Medusa": [
+            50.0,
+            "6"
+        ]
+    },
+    "pos2": {
+        "Zeus": [
+            30.0,
+            "20"
+        ],
+        "Leshrac": [
+            52.6,
+            "19"
+        ],
+        "Keeper of the Light": [
+            25.0,
+            "12"
+        ],
+        "Pangolier": [
+            20.0,
+            "10"
+        ],
+        "Timbersaw": [
+            90.0,
+            "10"
+        ],
+        "Lina": [
+            22.2,
+            "9"
+        ],
+        "Puck": [
+            44.4,
+            "9"
+        ],
+        "Storm Spirit": [
+            12.5,
+            "8"
+        ],
+        "Sniper": [
+            28.5,
+            "7"
+        ],
+        "Earthshaker": [
+            71.3,
+            "7"
+        ],
+        "Huskar": [
+            66.7,
+            "6"
+        ],
+        "Tiny": [
+            33.3,
+            "6"
+        ],
+        "Broodmother": [
+            16.7,
+            "6"
+        ],
+        "Templar Assassin": [
+            50.0,
+            "6"
+        ],
+        "Meepo": [
+            33.3,
+            "6"
+        ],
+        "Kunkka": [
+            66.7,
+            "6"
+        ]
+    },
+    "pos5": {
+        "Io": [
+            38.9,
+            "18"
+        ],
+        "Bane": [
+            35.6,
+            "14"
+        ],
+        "Disruptor": [
+            35.6,
+            "14"
+        ],
+        "Undying": [
+            25.0,
+            "12"
+        ],
+        "Treant Protector": [
+            37.5,
+            "8"
+        ],
+        "Shadow Demon": [
+            50.0,
+            "8"
+        ],
+        "Chen": [
+            28.5,
+            "7"
+        ],
+        "Venomancer": [
+            85.7,
+            "7"
+        ],
+        "Enchantress": [
+            71.3,
+            "7"
+        ],
+        "Nature's Prophet": [
+            42.9,
+            "7"
+        ],
+        "Pudge": [
+            14.2,
+            "7"
+        ],
+        "Crystal Maiden": [
+            33.3,
+            "6"
+        ],
+        "Vengeful Spirit": [
+            66.7,
+            "6"
+        ]
+    },
+    "pos3": {
+        "Slardar": [
+            56.2,
+            "16"
+        ],
+        "Mars": [
+            46.7,
+            "15"
+        ],
+        "Beastmaster": [
+            41.6,
+            "12"
+        ],
+        "Kunkka": [
+            50.0,
+            "10"
+        ],
+        "Doom": [
+            66.7,
+            "9"
+        ],
+        "Primal Beast": [
+            37.5,
+            "8"
+        ],
+        "Axe": [
+            37.5,
+            "8"
+        ],
+        "Timbersaw": [
+            37.5,
+            "8"
+        ],
+        "Centaur Warrunner": [
+            42.9,
+            "7"
+        ],
+        "Brewmaster": [
+            42.9,
+            "7"
+        ],
+        "Magnus": [
+            28.5,
+            "7"
+        ],
+        "Windranger": [
+            16.7,
+            "6"
+        ],
+        "Pudge": [
+            16.7,
+            "6"
+        ],
+        "Razor": [
+            16.7,
+            "6"
+        ]
+    }
+}
