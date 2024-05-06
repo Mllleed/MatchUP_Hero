@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-import pprint
 import json
+import
 import os
 import re
 
@@ -43,8 +43,10 @@ def hero_request():
     for i in range(0, len(words)):
         if words[i].isalpha():
             copy_list.append(words[i])
-
     hero_name = " ".join(copy_list)
+    if hero_name == "Nature s Prophet":
+        hero_name = "Nature's Prophet"
+
     if not hero_name in heroes_name_list:
         print("Ошибка в записи")
         return hero_request()
@@ -366,6 +368,8 @@ def main_function():
     val2 = compare_dict_for_heroes(first_dict=count_average_values_reverse(*third_enemy_hero, last_hero_position),
                             second_dict=count_average_values_reverse(*fourth_enemy_hero, last_hero_position))
     compare_dict_for_heroes(first_dict=val1, second_dict=val2)
+
+    p
 
 if __name__ == "__main__":
    main_function()
