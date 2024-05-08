@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-import
 import os
 import re
 
@@ -11,7 +10,6 @@ HEADERS = {
 }
 
 URL = "https://dota2protracker.com/"
-URL_PATTERN = f"https://dota2protracker.com/hero/Disruptor/new"
 req = requests.get(URL, headers=HEADERS)
 src = req.text
 
@@ -368,8 +366,6 @@ def main_function():
     val2 = compare_dict_for_heroes(first_dict=count_average_values_reverse(*third_enemy_hero, last_hero_position),
                             second_dict=count_average_values_reverse(*fourth_enemy_hero, last_hero_position))
     compare_dict_for_heroes(first_dict=val1, second_dict=val2)
-
-    p
 
 if __name__ == "__main__":
    main_function()
